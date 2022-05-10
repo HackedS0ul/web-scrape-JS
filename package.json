@@ -1,0 +1,29 @@
+{
+  "name": "amaze-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackedS0ul/web-scrape-JS.git"
+  },
+  "keywords": [
+    "javascript",
+    "scraping"
+  ],
+  "author": "HackedSoul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HackedS0ul/web-scrape-JS/issues"
+  },
+  "homepage": "https://github.com/HackedS0ul/web-scrape-JS#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^3.2.4",
+    "request-promise": "^4.2.6"
+  }
+}
