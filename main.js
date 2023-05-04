@@ -44,6 +44,7 @@ const getLaptopTitles = async function(){
             }
             if (title){
                 console.log(`${title} --- ${Price} --- ${Location}`);
+                console.log("Hello world!");
             }
         }
 
